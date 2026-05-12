@@ -1,38 +1,20 @@
 {
-  "parkExternalId": "MagicKingdomPark",
-  "thrillDataSlug": "magic-kingdom",
-  "sourceUrl": "https://www.thrill-data.com/trip-planning/crowd-calendar/magic-kingdom",
-  "generatedAt": "2026-05-12T06:16:48.331Z",
+  "parkExternalId": "DisneylandPark",
+  "thrillDataSlug": "disneyland",
+  "sourceUrl": "https://www.thrill-data.com/trip-planning/crowd-calendar/disneyland",
+  "generatedAt": "2026-05-12T06:17:14.920Z",
   "days": [
     {
       "date": "2026-01-01",
-      "crowdPercent": 61.3,
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 32,
-        "klass": "calendar-red3 calendar-box custom-font-one"
+        "waitMinutes": 29,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-01-02",
-      "crowdPercent": 66.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 40,
-        "klass": "calendar-red3 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-01-03",
-      "crowdPercent": 61.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 32,
-        "klass": "calendar-red3 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-01-04",
       "crowdPercent": 63.3,
       "predicted": true,
       "_meta": {
@@ -41,106 +23,52 @@
       }
     },
     {
-      "date": "2026-01-05",
-      "crowdPercent": 61.3,
+      "date": "2026-01-03",
+      "crowdPercent": 64,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 32,
+        "waitMinutes": 36,
         "klass": "calendar-red3 calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-01-06",
-      "crowdPercent": 60,
+      "date": "2026-01-04",
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 30,
+        "waitMinutes": 29,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-01-05",
+      "crowdPercent": 62,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 33,
+        "klass": "calendar-red2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-01-06",
+      "crowdPercent": 61.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 32,
         "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-01-07",
-      "crowdPercent": 53.3,
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 29,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-01-08",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-01-09",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-01-10",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-01-11",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-01-12",
-      "crowdPercent": 54.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 26,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-01-13",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-01-14",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-01-15",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-01-16",
       "crowdPercent": 56,
       "predicted": true,
       "_meta": {
@@ -149,20 +77,92 @@
       }
     },
     {
-      "date": "2026-01-17",
-      "crowdPercent": 60,
+      "date": "2026-01-09",
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 30,
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-01-10",
+      "crowdPercent": 56,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-01-11",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-01-12",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-01-13",
+      "crowdPercent": 60.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 31,
         "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-01-18",
-      "crowdPercent": 54.7,
+      "date": "2026-01-14",
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-01-15",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-01-16",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-01-17",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-01-18",
+      "crowdPercent": 56,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -177,28 +177,28 @@
     },
     {
       "date": "2026-01-20",
-      "crowdPercent": 56,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 27,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-01-21",
-      "crowdPercent": 50.7,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-01-22",
-      "crowdPercent": 52,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -213,55 +213,55 @@
     },
     {
       "date": "2026-01-24",
-      "crowdPercent": 60,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 30,
-        "klass": "calendar-red2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-01-25",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-01-26",
       "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
         "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-01-25",
+      "crowdPercent": 50.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 23,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-01-26",
+      "crowdPercent": 54.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-01-27",
-      "crowdPercent": 50.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-01-28",
-      "crowdPercent": 53.3,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-01-29",
-      "crowdPercent": 52,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -276,96 +276,6 @@
     },
     {
       "date": "2026-01-31",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-02-01",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-02-02",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-02-03",
-      "crowdPercent": 54.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 26,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-02-04",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-02-05",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-02-06",
-      "crowdPercent": 54.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 26,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-02-07",
-      "crowdPercent": 54.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 26,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-02-08",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-02-09",
-      "crowdPercent": 57.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 28,
-        "klass": "calendar-red2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-02-10",
       "crowdPercent": 56,
       "predicted": true,
       "_meta": {
@@ -374,84 +284,174 @@
       }
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-01",
+      "crowdPercent": 48,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-02-02",
+      "crowdPercent": 54.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 26,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-02-03",
       "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
         "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-02-04",
+      "crowdPercent": 53.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-02-05",
+      "crowdPercent": 46.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 20,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-02-06",
+      "crowdPercent": 46.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 20,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-02-07",
+      "crowdPercent": 60,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 30,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-02-08",
+      "crowdPercent": 56,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-02-09",
+      "crowdPercent": 60,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 30,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-02-10",
+      "crowdPercent": 54.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 26,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-02-11",
+      "crowdPercent": 56,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-12",
-      "crowdPercent": 52,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-13",
-      "crowdPercent": 53.3,
+      "crowdPercent": 42.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 17,
+        "klass": "calendar-green3 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-14",
-      "crowdPercent": 60.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 31,
-        "klass": "calendar-red2 calendar-box custom-font-one"
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-15",
-      "crowdPercent": 58.7,
+      "crowdPercent": 62,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 29,
+        "waitMinutes": 33,
         "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-16",
-      "crowdPercent": 60,
+      "crowdPercent": 63.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 30,
-        "klass": "calendar-red2 calendar-box custom-font-one"
+        "waitMinutes": 35,
+        "klass": "calendar-red3 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-17",
-      "crowdPercent": 61.3,
+      "crowdPercent": 64,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 32,
+        "waitMinutes": 36,
         "klass": "calendar-red3 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-18",
-      "crowdPercent": 62.7,
+      "crowdPercent": 64,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 34,
+        "waitMinutes": 36,
         "klass": "calendar-red3 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-19",
-      "crowdPercent": 60.7,
+      "crowdPercent": 64,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 31,
-        "klass": "calendar-red2 calendar-box custom-font-one"
+        "waitMinutes": 36,
+        "klass": "calendar-red3 calendar-box custom-font-one"
       }
     },
     {
@@ -460,218 +460,272 @@
       "predicted": true,
       "_meta": {
         "waitMinutes": 33,
-        "klass": "calendar-red3 calendar-box custom-font-one"
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-21",
-      "crowdPercent": 61.3,
+      "crowdPercent": 62.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 32,
-        "klass": "calendar-red3 calendar-box custom-font-one"
+        "waitMinutes": 34,
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-22",
-      "crowdPercent": 57.3,
+      "crowdPercent": 62,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 28,
+        "waitMinutes": 33,
         "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-23",
-      "crowdPercent": 56,
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 27,
+        "waitMinutes": 29,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-24",
-      "crowdPercent": 54.7,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-25",
-      "crowdPercent": 54.7,
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-26",
-      "crowdPercent": 53.3,
+      "crowdPercent": 60.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 31,
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-27",
-      "crowdPercent": 52,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-02-28",
-      "crowdPercent": 54.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-01",
-      "crowdPercent": 57.3,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 28,
-        "klass": "calendar-red2 calendar-box custom-font-one"
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-02",
-      "crowdPercent": 54.7,
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-03",
-      "crowdPercent": 54.7,
+      "crowdPercent": 62.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 34,
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-04",
-      "crowdPercent": 53.3,
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 29,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-05",
-      "crowdPercent": 52,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-06",
-      "crowdPercent": 52,
+      "crowdPercent": 45.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 19,
+        "klass": "calendar-green3 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-07",
-      "crowdPercent": 54.7,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-08",
-      "crowdPercent": 53.3,
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-09",
-      "crowdPercent": 52,
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 29,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-10",
-      "crowdPercent": 56,
+      "crowdPercent": 52,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 27,
+        "waitMinutes": 24,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-11",
-      "crowdPercent": 58.7,
+      "crowdPercent": 61.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 29,
+        "waitMinutes": 32,
         "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-12",
-      "crowdPercent": 57.3,
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 28,
-        "klass": "calendar-red2 calendar-box custom-font-one"
+        "waitMinutes": 30,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-13",
-      "crowdPercent": 61.3,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 32,
-        "klass": "calendar-red3 calendar-box custom-font-one"
+        "waitMinutes": 26,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-14",
-      "crowdPercent": 58.7,
+      "crowdPercent": 62.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 29,
+        "waitMinutes": 34,
         "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-15",
-      "crowdPercent": 56,
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 27,
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-16",
+      "crowdPercent": 62,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 33,
+        "klass": "calendar-red2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-03-17",
+      "crowdPercent": 61.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 32,
+        "klass": "calendar-red2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-03-18",
+      "crowdPercent": 61.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 32,
+        "klass": "calendar-red2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-03-19",
+      "crowdPercent": 60,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 30,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-03-20",
+      "crowdPercent": 60,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 30,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-03-21",
+      "crowdPercent": 52,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 24,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-03-22",
       "crowdPercent": 56,
       "predicted": true,
       "_meta": {
@@ -680,65 +734,11 @@
       }
     },
     {
-      "date": "2026-03-17",
-      "crowdPercent": 57.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 28,
-        "klass": "calendar-red2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-03-18",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-03-19",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-03-20",
-      "crowdPercent": 58.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 29,
-        "klass": "calendar-red2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-03-21",
-      "crowdPercent": 57.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 28,
-        "klass": "calendar-red2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-03-22",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
       "date": "2026-03-23",
-      "crowdPercent": 54.7,
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -748,24 +748,24 @@
       "predicted": true,
       "_meta": {
         "waitMinutes": 30,
-        "klass": "calendar-red2 calendar-box custom-font-one"
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-25",
-      "crowdPercent": 58.7,
+      "crowdPercent": 60.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 29,
+        "waitMinutes": 31,
         "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-26",
-      "crowdPercent": 58.7,
+      "crowdPercent": 61.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 29,
+        "waitMinutes": 32,
         "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
@@ -775,97 +775,97 @@
       "predicted": true,
       "_meta": {
         "waitMinutes": 29,
-        "klass": "calendar-red2 calendar-box custom-font-one"
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-28",
-      "crowdPercent": 62,
+      "crowdPercent": 62.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 33,
-        "klass": "calendar-red3 calendar-box custom-font-one"
+        "waitMinutes": 34,
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-29",
-      "crowdPercent": 58.7,
+      "crowdPercent": 61.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 29,
+        "waitMinutes": 32,
         "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-30",
-      "crowdPercent": 58.7,
+      "crowdPercent": 61.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 29,
+        "waitMinutes": 32,
         "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-03-31",
-      "crowdPercent": 57.3,
+      "crowdPercent": 61.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 28,
+        "waitMinutes": 32,
         "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-01",
-      "crowdPercent": 54.7,
+      "crowdPercent": 62,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 33,
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-02",
-      "crowdPercent": 56,
+      "crowdPercent": 62.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 27,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 34,
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-03",
-      "crowdPercent": 56,
+      "crowdPercent": 63.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 27,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 35,
+        "klass": "calendar-red3 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-04",
-      "crowdPercent": 57.3,
+      "crowdPercent": 62.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 28,
+        "waitMinutes": 34,
         "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-05",
-      "crowdPercent": 54.7,
+      "crowdPercent": 62,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 33,
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-06",
-      "crowdPercent": 54.7,
+      "crowdPercent": 61.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 32,
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
@@ -874,34 +874,34 @@
       "predicted": true,
       "_meta": {
         "waitMinutes": 28,
-        "klass": "calendar-red2 calendar-box custom-font-one"
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-08",
-      "crowdPercent": 53.3,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-09",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-04-10",
       "crowdPercent": 52,
       "predicted": true,
       "_meta": {
         "waitMinutes": 24,
         "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-04-10",
+      "crowdPercent": 50.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 23,
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
@@ -915,163 +915,163 @@
     },
     {
       "date": "2026-04-12",
-      "crowdPercent": 54.7,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-13",
-      "crowdPercent": 54.7,
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-14",
-      "crowdPercent": 54.7,
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 29,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-15",
-      "crowdPercent": 54.7,
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 29,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-16",
-      "crowdPercent": 53.3,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-17",
-      "crowdPercent": 53.3,
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-18",
-      "crowdPercent": 52,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-19",
-      "crowdPercent": 57.3,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 28,
-        "klass": "calendar-red2 calendar-box custom-font-one"
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-20",
-      "crowdPercent": 53.3,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-21",
-      "crowdPercent": 54.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-22",
-      "crowdPercent": 53.3,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-23",
-      "crowdPercent": 53.3,
+      "crowdPercent": 52,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 24,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-24",
-      "crowdPercent": 53.3,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-25",
-      "crowdPercent": 53.3,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-26",
-      "crowdPercent": 54.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-27",
-      "crowdPercent": 54.7,
+      "crowdPercent": 60.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 31,
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-28",
-      "crowdPercent": 54.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-04-29",
-      "crowdPercent": 52,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -1086,235 +1086,235 @@
     },
     {
       "date": "2026-05-01",
-      "crowdPercent": 52,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-02",
-      "crowdPercent": 50.7,
+      "crowdPercent": 52,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 24,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-03",
-      "crowdPercent": 52,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-04",
-      "crowdPercent": 52,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-05",
-      "crowdPercent": 52,
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-06",
-      "crowdPercent": 54.7,
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 29,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-07",
-      "crowdPercent": 50.7,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-08",
-      "crowdPercent": 53.3,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-09",
-      "crowdPercent": 50.7,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-10",
-      "crowdPercent": 49.3,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-11",
-      "crowdPercent": 50.7,
+      "crowdPercent": 52,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 24,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-12",
-      "crowdPercent": 53.3,
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 29,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-13",
-      "crowdPercent": 54.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-14",
-      "crowdPercent": 52,
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-15",
-      "crowdPercent": 49.3,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-16",
-      "crowdPercent": 52,
+      "crowdPercent": 46.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 20,
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-17",
-      "crowdPercent": 52,
+      "crowdPercent": 48,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-18",
-      "crowdPercent": 50.7,
+      "crowdPercent": 52,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 24,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-19",
-      "crowdPercent": 52,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-20",
-      "crowdPercent": 50.7,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-21",
-      "crowdPercent": 50.7,
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-22",
-      "crowdPercent": 52,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-23",
-      "crowdPercent": 50.7,
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 29,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-24",
-      "crowdPercent": 50.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-25",
-      "crowdPercent": 50.7,
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 29,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-26",
-      "crowdPercent": 54.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -1329,168 +1329,15 @@
     },
     {
       "date": "2026-05-28",
-      "crowdPercent": 53.3,
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 29,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-05-29",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-05-30",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-01",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-02",
-      "crowdPercent": 54.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 26,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-03",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-04",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-05",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-08",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-09",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-10",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-11",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-12",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-13",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-14",
-      "crowdPercent": 54.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 26,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-15",
       "crowdPercent": 56,
       "predicted": true,
       "_meta": {
@@ -1499,7 +1346,16 @@
       }
     },
     {
-      "date": "2026-06-16",
+      "date": "2026-05-30",
+      "crowdPercent": 54.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 26,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-05-31",
       "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
@@ -1508,7 +1364,61 @@
       }
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-01",
+      "crowdPercent": 53.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "crowdPercent": 58.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 29,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "crowdPercent": 58.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 29,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "crowdPercent": 56,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-05",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-06",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-07",
       "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
@@ -1517,25 +1427,43 @@
       }
     },
     {
-      "date": "2026-06-18",
-      "crowdPercent": 54.7,
+      "date": "2026-06-08",
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-06-19",
-      "crowdPercent": 54.7,
+      "date": "2026-06-09",
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-06-20",
+      "date": "2026-06-10",
+      "crowdPercent": 58.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 29,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-12",
       "crowdPercent": 52,
       "predicted": true,
       "_meta": {
@@ -1544,12 +1472,84 @@
       }
     },
     {
-      "date": "2026-06-21",
-      "crowdPercent": 46.7,
+      "date": "2026-06-13",
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 20,
+        "waitMinutes": 26,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "crowdPercent": 58.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 29,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "crowdPercent": 52,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 24,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "crowdPercent": 44,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 18,
+        "klass": "calendar-green3 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "crowdPercent": 49.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 22,
         "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "crowdPercent": 53.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "crowdPercent": 56,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "crowdPercent": 52,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 24,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
@@ -1563,105 +1563,78 @@
     },
     {
       "date": "2026-06-23",
-      "crowdPercent": 52,
+      "crowdPercent": 48,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-06-24",
-      "crowdPercent": 54.7,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-06-25",
-      "crowdPercent": 54.7,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-06-26",
-      "crowdPercent": 53.3,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-06-27",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-06-28",
       "crowdPercent": 50.7,
       "predicted": true,
       "_meta": {
         "waitMinutes": 23,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "crowdPercent": 53.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-06-29",
-      "crowdPercent": 53.3,
+      "crowdPercent": 48,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-06-30",
-      "crowdPercent": 50.7,
+      "crowdPercent": 46.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 20,
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-07-01",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-07-02",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-07-03",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-07-04",
       "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
@@ -1670,7 +1643,25 @@
       }
     },
     {
-      "date": "2026-07-05",
+      "date": "2026-07-02",
+      "crowdPercent": 54.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 26,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-07-03",
+      "crowdPercent": 54.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 26,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-07-04",
       "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
@@ -1679,12 +1670,21 @@
       }
     },
     {
-      "date": "2026-07-06",
-      "crowdPercent": 52,
+      "date": "2026-07-05",
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-07-06",
+      "crowdPercent": 48,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
@@ -1693,38 +1693,11 @@
       "predicted": true,
       "_meta": {
         "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-07-08",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-07-09",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-07-10",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-07-11",
       "crowdPercent": 52,
       "predicted": true,
       "_meta": {
@@ -1733,21 +1706,48 @@
       }
     },
     {
+      "date": "2026-07-09",
+      "crowdPercent": 54.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 26,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "crowdPercent": 48,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-07-11",
+      "crowdPercent": 46.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 20,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
       "date": "2026-07-12",
       "crowdPercent": 49.3,
       "predicted": true,
       "_meta": {
         "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-07-13",
-      "crowdPercent": 50.7,
+      "crowdPercent": 45.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 19,
+        "klass": "calendar-green3 calendar-box custom-font-one"
       }
     },
     {
@@ -1761,10 +1761,10 @@
     },
     {
       "date": "2026-07-15",
-      "crowdPercent": 53.3,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -1779,19 +1779,19 @@
     },
     {
       "date": "2026-07-17",
-      "crowdPercent": 52,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-07-18",
-      "crowdPercent": 49.3,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -1801,24 +1801,24 @@
       "predicted": true,
       "_meta": {
         "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-07-20",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-07-21",
       "crowdPercent": 49.3,
       "predicted": true,
       "_meta": {
         "waitMinutes": 22,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-07-21",
+      "crowdPercent": 52,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 24,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -1833,28 +1833,28 @@
     },
     {
       "date": "2026-07-23",
-      "crowdPercent": 52,
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-07-24",
-      "crowdPercent": 52,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-07-25",
-      "crowdPercent": 53.3,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -1864,101 +1864,83 @@
       "predicted": true,
       "_meta": {
         "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-07-27",
-      "crowdPercent": 50.7,
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 29,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-07-28",
-      "crowdPercent": 49.3,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-07-29",
-      "crowdPercent": 52,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-07-30",
-      "crowdPercent": 50.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-07-31",
-      "crowdPercent": 49.3,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-08-01",
-      "crowdPercent": 50.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-08-02",
-      "crowdPercent": 50.7,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-08-03",
-      "crowdPercent": 50.7,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-08-04",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-05",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-06",
       "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
@@ -1967,20 +1949,38 @@
       }
     },
     {
-      "date": "2026-08-07",
-      "crowdPercent": 52,
+      "date": "2026-08-05",
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "crowdPercent": 56,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "crowdPercent": 54.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-08-08",
-      "crowdPercent": 54.7,
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -1990,11 +1990,20 @@
       "predicted": true,
       "_meta": {
         "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-08-10",
+      "crowdPercent": 49.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 22,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-08-11",
       "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
@@ -2003,97 +2012,16 @@
       }
     },
     {
-      "date": "2026-08-11",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
       "date": "2026-08-12",
-      "crowdPercent": 48,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 21,
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-08-13",
-      "crowdPercent": 46.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-14",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-15",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-16",
-      "crowdPercent": 44,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 18,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-17",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-19",
-      "crowdPercent": 46.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-20",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-21",
       "crowdPercent": 52,
       "predicted": true,
       "_meta": {
@@ -2102,52 +2030,16 @@
       }
     },
     {
-      "date": "2026-08-22",
-      "crowdPercent": 48,
+      "date": "2026-08-14",
+      "crowdPercent": 52,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 21,
+        "waitMinutes": 24,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-08-23",
-      "crowdPercent": 45.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 19,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-24",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-25",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-26",
-      "crowdPercent": 44,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 18,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-08-27",
+      "date": "2026-08-15",
       "crowdPercent": 46.7,
       "predicted": true,
       "_meta": {
@@ -2156,34 +2048,61 @@
       }
     },
     {
-      "date": "2026-08-28",
-      "crowdPercent": 49.3,
+      "date": "2026-08-16",
+      "crowdPercent": 48,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "crowdPercent": 45.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 19,
+        "klass": "calendar-green3 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-08-18",
+      "crowdPercent": 48,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-08-19",
+      "crowdPercent": 56,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-08-29",
-      "crowdPercent": 44,
+      "date": "2026-08-20",
+      "crowdPercent": 45.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 18,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "waitMinutes": 19,
+        "klass": "calendar-green3 calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-08-30",
-      "crowdPercent": 42.7,
+      "date": "2026-08-21",
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 17,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-08-31",
+      "date": "2026-08-22",
       "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
@@ -2192,30 +2111,111 @@
       }
     },
     {
-      "date": "2026-09-01",
-      "crowdPercent": 49.3,
+      "date": "2026-08-23",
+      "crowdPercent": 46.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-09-02",
-      "crowdPercent": 42.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 17,
+        "waitMinutes": 20,
         "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-09-03",
-      "crowdPercent": 49.3,
+      "date": "2026-08-24",
+      "crowdPercent": 48,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-08-25",
+      "crowdPercent": 44,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 18,
+        "klass": "calendar-green3 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-08-26",
+      "crowdPercent": 45.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 19,
+        "klass": "calendar-green3 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-08-27",
+      "crowdPercent": 45.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 19,
+        "klass": "calendar-green3 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "crowdPercent": 50.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 23,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "crowdPercent": 44,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 18,
+        "klass": "calendar-green3 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "crowdPercent": 44,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 18,
+        "klass": "calendar-green3 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-08-31",
+      "crowdPercent": 45.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 19,
+        "klass": "calendar-green3 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-09-01",
+      "crowdPercent": 48,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "crowdPercent": 44,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 18,
+        "klass": "calendar-green3 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-09-03",
+      "crowdPercent": 46.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 20,
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
@@ -2224,15 +2224,15 @@
       "predicted": true,
       "_meta": {
         "waitMinutes": 21,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-09-05",
-      "crowdPercent": 45.3,
+      "crowdPercent": 48,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 19,
+        "waitMinutes": 21,
         "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
@@ -2247,11 +2247,11 @@
     },
     {
       "date": "2026-09-07",
-      "crowdPercent": 49.3,
+      "crowdPercent": 48,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
@@ -2260,7 +2260,7 @@
       "predicted": true,
       "_meta": {
         "waitMinutes": 17,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "klass": "calendar-green3 calendar-box custom-font-one"
       }
     },
     {
@@ -2269,7 +2269,7 @@
       "predicted": true,
       "_meta": {
         "waitMinutes": 18,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "klass": "calendar-green3 calendar-box custom-font-one"
       }
     },
     {
@@ -2278,101 +2278,47 @@
       "predicted": true,
       "_meta": {
         "waitMinutes": 17,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "klass": "calendar-green3 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-09-11",
-      "crowdPercent": 48,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 21,
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-09-12",
-      "crowdPercent": 46.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-09-13",
-      "crowdPercent": 44,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 18,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-09-14",
       "crowdPercent": 52,
       "predicted": true,
       "_meta": {
         "waitMinutes": 24,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-09-14",
+      "crowdPercent": 56,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-09-15",
-      "crowdPercent": 46.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-09-16",
-      "crowdPercent": 48,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 21,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-09-17",
-      "crowdPercent": 44,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 18,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-09-18",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "crowdPercent": 48,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 21,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-09-20",
-      "crowdPercent": 44,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 18,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-09-21",
       "crowdPercent": 52,
       "predicted": true,
       "_meta": {
@@ -2381,92 +2327,146 @@
       }
     },
     {
-      "date": "2026-09-22",
-      "crowdPercent": 46.7,
+      "date": "2026-09-16",
+      "crowdPercent": 58.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "waitMinutes": 29,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-09-17",
+      "crowdPercent": 58.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 29,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-09-18",
+      "crowdPercent": 54.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 26,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-09-20",
+      "crowdPercent": 53.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-09-21",
+      "crowdPercent": 54.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 26,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-09-22",
+      "crowdPercent": 53.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-09-23",
-      "crowdPercent": 48,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 21,
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-09-24",
-      "crowdPercent": 46.7,
+      "crowdPercent": 50.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 20,
+        "waitMinutes": 23,
         "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-09-25",
-      "crowdPercent": 46.7,
+      "crowdPercent": 48,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 20,
+        "waitMinutes": 21,
         "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-09-26",
-      "crowdPercent": 44,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 18,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-09-27",
-      "crowdPercent": 46.7,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-09-28",
-      "crowdPercent": 46.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-09-29",
-      "crowdPercent": 41.3,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 16,
-        "klass": "calendar-green3 calendar-box custom-font-one"
+        "waitMinutes": 26,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-09-30",
-      "crowdPercent": 44,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 18,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-01",
-      "crowdPercent": 44,
+      "crowdPercent": 50.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 18,
+        "waitMinutes": 23,
         "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
@@ -2481,19 +2481,19 @@
     },
     {
       "date": "2026-10-03",
-      "crowdPercent": 49.3,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-04",
-      "crowdPercent": 48,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 21,
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -2508,69 +2508,24 @@
     },
     {
       "date": "2026-10-06",
-      "crowdPercent": 45.3,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 19,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "waitMinutes": 26,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-07",
-      "crowdPercent": 52,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-08",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "crowdPercent": 45.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 19,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-10-10",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-10-11",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-10-12",
-      "crowdPercent": 56,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 27,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-10-13",
       "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
@@ -2579,25 +2534,97 @@
       }
     },
     {
-      "date": "2026-10-14",
-      "crowdPercent": 50.7,
+      "date": "2026-10-09",
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "crowdPercent": 60,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 30,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "crowdPercent": 61.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 32,
+        "klass": "calendar-red2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "crowdPercent": 62.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 34,
+        "klass": "calendar-red2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "crowdPercent": 58.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 29,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "crowdPercent": 60,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-15",
-      "crowdPercent": 52,
+      "crowdPercent": 61.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 32,
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-16",
+      "crowdPercent": 58.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 29,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "crowdPercent": 61.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 32,
+        "klass": "calendar-red2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "crowdPercent": 53.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-10-19",
       "crowdPercent": 56,
       "predicted": true,
       "_meta": {
@@ -2606,56 +2633,29 @@
       }
     },
     {
-      "date": "2026-10-17",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-10-18",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-10-19",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
       "date": "2026-10-20",
-      "crowdPercent": 50.7,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-21",
-      "crowdPercent": 45.3,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 19,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-22",
-      "crowdPercent": 50.7,
+      "crowdPercent": 52,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 24,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -2670,65 +2670,65 @@
     },
     {
       "date": "2026-10-24",
-      "crowdPercent": 46.7,
+      "crowdPercent": 61.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "waitMinutes": 32,
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-25",
-      "crowdPercent": 49.3,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-26",
-      "crowdPercent": 50.7,
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 28,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-27",
-      "crowdPercent": 49.3,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-28",
-      "crowdPercent": 48,
+      "crowdPercent": 42.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 21,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 17,
+        "klass": "calendar-green3 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-29",
-      "crowdPercent": 46.7,
+      "crowdPercent": 44,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
+        "waitMinutes": 18,
+        "klass": "calendar-green3 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-10-30",
-      "crowdPercent": 48,
+      "crowdPercent": 45.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 21,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 19,
+        "klass": "calendar-green3 calendar-box custom-font-one"
       }
     },
     {
@@ -2737,16 +2737,16 @@
       "predicted": true,
       "_meta": {
         "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-11-01",
-      "crowdPercent": 49.3,
+      "crowdPercent": 48,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
@@ -2760,204 +2760,24 @@
     },
     {
       "date": "2026-11-03",
-      "crowdPercent": 54.7,
+      "crowdPercent": 50.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 23,
+        "klass": "calendar-green2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-11-04",
-      "crowdPercent": 52,
+      "crowdPercent": 61.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
+        "waitMinutes": 32,
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-11-05",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-06",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-07",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-08",
-      "crowdPercent": 48,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 21,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-09",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-10",
-      "crowdPercent": 50.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 23,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-11",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-12",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-13",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-14",
-      "crowdPercent": 46.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-15",
-      "crowdPercent": 46.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-16",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-17",
-      "crowdPercent": 46.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-18",
-      "crowdPercent": 48,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 21,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-19",
-      "crowdPercent": 46.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-20",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-21",
-      "crowdPercent": 45.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 19,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-22",
-      "crowdPercent": 45.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 19,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-23",
-      "crowdPercent": 58.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 29,
-        "klass": "calendar-red2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-24",
-      "crowdPercent": 57.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 28,
-        "klass": "calendar-red2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-11-25",
       "crowdPercent": 56,
       "predicted": true,
       "_meta": {
@@ -2966,16 +2786,25 @@
       }
     },
     {
-      "date": "2026-11-26",
-      "crowdPercent": 54.7,
+      "date": "2026-11-06",
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 26,
+        "waitMinutes": 30,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-11-07",
+      "crowdPercent": 45.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 19,
+        "klass": "calendar-green3 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-08",
       "crowdPercent": 52,
       "predicted": true,
       "_meta": {
@@ -2984,25 +2813,205 @@
       }
     },
     {
-      "date": "2026-11-28",
+      "date": "2026-11-09",
       "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
         "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "crowdPercent": 60.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 31,
+        "klass": "calendar-red2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "crowdPercent": 60,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 30,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "crowdPercent": 60,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 30,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "crowdPercent": 56,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "crowdPercent": 48,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "crowdPercent": 49.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 22,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "crowdPercent": 52,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 24,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "crowdPercent": 60,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 30,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "crowdPercent": 48,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 21,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "crowdPercent": 52,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 24,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-22",
+      "crowdPercent": 52,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 24,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "crowdPercent": 61.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 32,
+        "klass": "calendar-red2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-24",
+      "crowdPercent": 62,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 33,
+        "klass": "calendar-red2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-25",
+      "crowdPercent": 58.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 29,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-26",
+      "crowdPercent": 60,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 30,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-27",
+      "crowdPercent": 56,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-11-28",
+      "crowdPercent": 58.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 29,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-11-29",
-      "crowdPercent": 50.7,
+      "crowdPercent": 56,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 27,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-11-30",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-12-01",
       "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
@@ -3011,29 +3020,20 @@
       }
     },
     {
-      "date": "2026-12-01",
-      "crowdPercent": 48,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 21,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
       "date": "2026-12-02",
-      "crowdPercent": 49.3,
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 22,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-12-03",
-      "crowdPercent": 48,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 21,
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -3048,60 +3048,6 @@
     },
     {
       "date": "2026-12-05",
-      "crowdPercent": 52,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 24,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-12-06",
-      "crowdPercent": 48,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 21,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-12-07",
-      "crowdPercent": 46.7,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 20,
-        "klass": "calendar-green2 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-12-08",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-12-09",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-12-10",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-12-11",
       "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
@@ -3110,20 +3056,74 @@
       }
     },
     {
-      "date": "2026-12-12",
-      "crowdPercent": 50.7,
+      "date": "2026-12-06",
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 23,
+        "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "crowdPercent": 53.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "crowdPercent": 54.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 26,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-12-09",
+      "crowdPercent": 56,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 27,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-12-10",
+      "crowdPercent": 53.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 25,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-12-11",
+      "crowdPercent": 52,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 24,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-12-12",
+      "crowdPercent": 52,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 24,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-12-13",
-      "crowdPercent": 52,
+      "crowdPercent": 53.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 24,
+        "waitMinutes": 25,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
@@ -3138,42 +3138,6 @@
     },
     {
       "date": "2026-12-15",
-      "crowdPercent": 48,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 21,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-12-16",
-      "crowdPercent": 49.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 22,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-12-17",
-      "crowdPercent": 48,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 21,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-12-18",
-      "crowdPercent": 53.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 25,
-        "klass": "calendar-orange calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-12-19",
       "crowdPercent": 52,
       "predicted": true,
       "_meta": {
@@ -3182,25 +3146,34 @@
       }
     },
     {
-      "date": "2026-12-20",
-      "crowdPercent": 53.3,
+      "date": "2026-12-16",
+      "crowdPercent": 54.7,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 26,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-12-21",
-      "crowdPercent": 53.3,
+      "date": "2026-12-17",
+      "crowdPercent": 49.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 25,
+        "waitMinutes": 22,
+        "klass": "calendar-green2 calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-12-18",
+      "crowdPercent": 52,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 24,
         "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-12-22",
+      "date": "2026-12-19",
       "crowdPercent": 56,
       "predicted": true,
       "_meta": {
@@ -3209,34 +3182,25 @@
       }
     },
     {
-      "date": "2026-12-23",
-      "crowdPercent": 58.7,
+      "date": "2026-12-20",
+      "crowdPercent": 57.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 29,
-        "klass": "calendar-red2 calendar-box custom-font-one"
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-12-24",
+      "date": "2026-12-21",
       "crowdPercent": 62,
       "predicted": true,
       "_meta": {
         "waitMinutes": 33,
-        "klass": "calendar-red3 calendar-box custom-font-one"
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
-      "date": "2026-12-25",
-      "crowdPercent": 63.3,
-      "predicted": true,
-      "_meta": {
-        "waitMinutes": 35,
-        "klass": "calendar-red3 calendar-box custom-font-one"
-      }
-    },
-    {
-      "date": "2026-12-26",
+      "date": "2026-12-22",
       "crowdPercent": 60.7,
       "predicted": true,
       "_meta": {
@@ -3245,29 +3209,65 @@
       }
     },
     {
-      "date": "2026-12-27",
-      "crowdPercent": 62.7,
+      "date": "2026-12-23",
+      "crowdPercent": 60,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 34,
-        "klass": "calendar-red3 calendar-box custom-font-one"
+        "waitMinutes": 30,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-12-24",
+      "crowdPercent": 57.3,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 28,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-12-25",
+      "crowdPercent": 58.7,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 29,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-12-26",
+      "crowdPercent": 60,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 30,
+        "klass": "calendar-orange calendar-box custom-font-one"
+      }
+    },
+    {
+      "date": "2026-12-27",
+      "crowdPercent": 62,
+      "predicted": true,
+      "_meta": {
+        "waitMinutes": 33,
+        "klass": "calendar-red2 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-12-28",
-      "crowdPercent": 63.3,
+      "crowdPercent": 64,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 35,
+        "waitMinutes": 36,
         "klass": "calendar-red3 calendar-box custom-font-one"
       }
     },
     {
       "date": "2026-12-29",
-      "crowdPercent": 64,
+      "crowdPercent": 63.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 36,
+        "waitMinutes": 35,
         "klass": "calendar-red3 calendar-box custom-font-one"
       }
     },
@@ -3282,10 +3282,10 @@
     },
     {
       "date": "2026-12-31",
-      "crowdPercent": 67.3,
+      "crowdPercent": 63.3,
       "predicted": true,
       "_meta": {
-        "waitMinutes": 41,
+        "waitMinutes": 35,
         "klass": "calendar-red3 calendar-box custom-font-one"
       }
     }
