@@ -1,88 +1,88 @@
 {
-  "generatedAt": "2026-07-13T06:15:35.807Z",
+  "generatedAt": "2026-07-14T05:28:09.647Z",
   "scraperVersion": "1.0.0",
   "parks": {
     "MagicKingdomPark": {
       "thrillDataSlug": "magic-kingdom",
-      "lastUpdated": "2026-07-13T06:15:38.287Z",
+      "lastUpdated": "2026-07-14T05:28:12.050Z",
       "hasCalendar": true,
       "dayCount": 365
     },
     "Epcot": {
       "thrillDataSlug": "epcot",
-      "lastUpdated": "2026-07-13T06:15:47.379Z",
+      "lastUpdated": "2026-07-14T05:28:17.941Z",
       "hasCalendar": true,
       "dayCount": 365
     },
     "DisneyHollywoodStudios": {
       "thrillDataSlug": "hollywood-studios",
-      "lastUpdated": "2026-07-13T06:15:53.555Z",
+      "lastUpdated": "2026-07-14T05:28:25.129Z",
       "hasCalendar": true,
       "dayCount": 365
     },
     "DisneyAnimalKingdom": {
       "thrillDataSlug": "animal-kingdom",
-      "lastUpdated": "2026-07-13T06:15:59.614Z",
+      "lastUpdated": "2026-07-14T05:28:33.845Z",
       "hasCalendar": true,
       "dayCount": 365
     },
     "DisneylandPark": {
       "thrillDataSlug": "disneyland",
-      "lastUpdated": "2026-07-13T06:16:08.059Z",
+      "lastUpdated": "2026-07-14T05:28:40.605Z",
       "hasCalendar": true,
       "dayCount": 365
     },
     "DisneyCaliforniaAdventure": {
       "thrillDataSlug": "california-adventure",
-      "lastUpdated": "2026-07-13T06:16:14.405Z",
+      "lastUpdated": "2026-07-14T05:28:46.759Z",
       "hasCalendar": true,
       "dayCount": 365
     },
     "UniversalIslandsOfAdventure": {
       "thrillDataSlug": "islands-of-adventure",
-      "lastUpdated": "2026-07-13T06:16:21.293Z",
+      "lastUpdated": "2026-07-14T05:28:52.790Z",
       "hasCalendar": true,
       "dayCount": 365
     },
     "UniversalEpicUniverse": {
       "thrillDataSlug": "epic-universe",
-      "lastUpdated": "2026-07-13T06:16:27.097Z",
+      "lastUpdated": "2026-07-14T05:28:59.098Z",
       "hasCalendar": true,
       "dayCount": 365
     },
     "Phantasialand": {
       "thrillDataSlug": "phantasialand",
-      "lastUpdated": "2026-07-13T06:16:33.011Z",
+      "lastUpdated": "2026-07-14T05:29:07.175Z",
       "hasCalendar": true,
       "dayCount": 365
     },
     "EftelingPark": {
       "thrillDataSlug": "efteling",
-      "lastUpdated": "2026-07-13T06:16:39.887Z",
+      "lastUpdated": "2026-07-14T05:29:15.100Z",
       "hasCalendar": true,
       "dayCount": 365
     },
     "AltonTowers": {
       "thrillDataSlug": "alton-towers",
-      "lastUpdated": "2026-07-13T06:16:46.329Z",
+      "lastUpdated": "2026-07-14T05:29:21.018Z",
       "hasCalendar": true,
       "dayCount": 297
     },
     "ParcAsterix": {
       "thrillDataSlug": "parc-asterix",
-      "lastUpdated": "2026-07-13T06:16:51.567Z",
+      "lastUpdated": "2026-07-14T05:29:29.738Z",
       "hasCalendar": true,
       "dayCount": 261
     },
     "LisebergPark": {
       "thrillDataSlug": "liseberg",
-      "lastUpdated": "2026-07-13T06:16:58.423Z",
+      "lastUpdated": "2026-07-14T05:29:38.499Z",
       "hasCalendar": true,
       "dayCount": 255
     },
     "TivoliGardens": {
       "thrillDataSlug": "tivoli-gardens",
-      "lastUpdated": "2026-07-13T06:17:13.282Z",
+      "lastUpdated": "2026-07-14T05:29:53.395Z",
       "hasCalendar": false,
       "dayCount": 0
     }
